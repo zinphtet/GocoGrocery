@@ -598,7 +598,7 @@ input[placeholder='Enter your email'] {
 	.nav_links {
 		position: absolute;
 		top: 15vh;
-		right: -50%;
+		right: -100%;
 		display: block;
 		background-color: var(--white);
 		padding: 1rem;
